@@ -18,7 +18,7 @@ This is a python script that fetches a 5 day weather forecasts from OpenWeatherM
 
 ## 📥 Installation
 
-### Method 1: Download ZIP from GitHub
+### Simply download the ZIP file from this repo 
 
 1. Click the green **"Code"** button at the top of this repository
 2. Select **"Download ZIP"**
