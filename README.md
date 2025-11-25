@@ -1,5 +1,9 @@
-**🌤️ Welcome to my OpenWeatherMap Weather Forecast Project**
+## 🌤️ Welcome to my OpenWeatherMap Weather Forecast Project
 
+
+![Python](https://img.shields.io/badge/python-3.7+-blue.svg)
+![License](https://img.shields.io/badge/license-Educational-green.svg)
+![Status](https://img.shields.io/badge/status-active-success.svg)
 
 This is a python script that fetches a 5 day weather forecasts from OpenWeatherMap and analyzes precipitation patterns and major weather transitions.
 
@@ -114,6 +118,3 @@ weather-forecast-project/
 
 Kenza Soopramanien - B3 Cyberschool Airbus - 2025
 
-## 📄 License
-
-This project is for educational purposes as part of a school assignment.
