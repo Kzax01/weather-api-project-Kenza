@@ -109,7 +109,7 @@ def process_weather_data(data):
     
     # Iterate through all forecasts
     for item in data['list']:
-        # Extract the date (format: "2023-09-28 15:00:00")
+        # Extract the date (format: standard)
         date_time = item['dt_txt']
         date = date_time.split(' ')[0]  # Keep only the date
         
